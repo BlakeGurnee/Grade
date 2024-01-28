@@ -1,0 +1,1 @@
+This is a simple python script that will ask you the percent you got on a quiz or test and will determine what letter grade you got.  I made this when I was 13 so I could always know what letter grade I got on my test, quizzes, and assignments.
